@@ -7,49 +7,49 @@ export default class TileMap {
     this.tileSize = tileSize;
 
     this.yellowDot = new Image();
-    this.yellowDot.src = "../Images/yellowDot.png";
+    this.yellowDot.src = "Images/yellowDot.png";
 
     this.wall = new Image();
-    this.wall.src = "../Images/wall x.png";
+    this.wall.src = "Images/wall x.png";
 
     this.wall1 = new Image();
-    this.wall1.src = "../Images/Wall 1.png";
+    this.wall1.src = "Images/Wall 1.png";
 
     this.wall2 = new Image();
-    this.wall2.src = "../Images/Wall 2.png";
+    this.wall2.src = "Images/Wall 2.png";
 
     this.wall3 = new Image();
-    this.wall3.src = "../Images/Wall 3.png";
+    this.wall3.src = "Images/Wall 3.png";
 
     this.wall4 = new Image();
-    this.wall4.src = "../Images/Wall 4.png";
+    this.wall4.src = "Images/Wall 4.png";
 
     this.wall5 = new Image();
-    this.wall5.src = "../Images/Wall 5.png";
+    this.wall5.src = "Images/Wall 5.png";
 
     this.wall6 = new Image();
-    this.wall6.src = "../Images/Wall 6.png";
+    this.wall6.src = "Images/Wall 6.png";
 
     this.wall7 = new Image();
-    this.wall7.src = "../Images/Wall 7.png";
+    this.wall7.src = "Images/Wall 7.png";
 
     this.wall8 = new Image();
-    this.wall8.src = "../Images/Wall 8.png";
+    this.wall8.src = "Images/Wall 8.png";
 
     this.wall9 = new Image();
-    this.wall9.src = "../Images/Wall 9.png";
+    this.wall9.src = "Images/Wall 9.png";
 
     this.wall10 = new Image();
-    this.wall10.src = "../Images/wall 10.png";
+    this.wall10.src = "Images/wall 10.png";
 
     this.wall11 = new Image();
-    this.wall11.src = "../Images/Wall 11.png";
+    this.wall11.src = "Images/Wall 11.png";
 
     this.pinkDot = new Image();
-    this.pinkDot.src = "../Images/pinkDot.png";
+    this.pinkDot.src = "Images/pinkDot.png";
 
     this.yellowDot = new Image();
-    this.yellowDot.src = "../Images/yellowDot.png";
+    this.yellowDot.src = "Images/yellowDot.png";
 
     this.powerDot = this.pinkDot;
     this.powerDotAnimationTimerDefault = 60;
