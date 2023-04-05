@@ -69,4 +69,4 @@ function drawGameEnd() {
 
 tileMap.setCanvasSize(canvas);
 
-setInterval(gameLoop, 10000 / 75);
+setInterval(gameLoop, 1000 / 75);
