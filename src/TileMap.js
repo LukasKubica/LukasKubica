@@ -10,7 +10,7 @@ export default class TileMap {
     this.yellowDot.src = "Images/yellowDot.png";
 
     this.wall = new Image();
-    this.wall.src = "Images/wallx.png";
+    this.wall.src = "Images/Wallx.png";
 
     this.wall1 = new Image();
     this.wall1.src = "Images/Wall1.png";
