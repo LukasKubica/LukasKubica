@@ -10,40 +10,40 @@ export default class TileMap {
     this.yellowDot.src = "Images/yellowDot.png";
 
     this.wall = new Image();
-    this.wall.src = "Images/wall_x.png";
+    this.wall.src = "Images/wallx.png";
 
     this.wall1 = new Image();
-    this.wall1.src = "Images/Wall_1.png";
+    this.wall1.src = "Images/Wall1.png";
 
     this.wall2 = new Image();
-    this.wall2.src = "Images/Wall_2.png";
+    this.wall2.src = "Images/Wall2.png";
 
     this.wall3 = new Image();
-    this.wall3.src = "Images/Wall_3.png";
+    this.wall3.src = "Images/Wall3.png";
 
     this.wall4 = new Image();
-    this.wall4.src = "Images/Wall_4.png";
+    this.wall4.src = "Images/Wall4.png";
 
     this.wall5 = new Image();
-    this.wall5.src = "Images/Wall_5.png";
+    this.wall5.src = "Images/Wall5.png";
 
     this.wall6 = new Image();
-    this.wall6.src = "Images/Wall_6.png";
+    this.wall6.src = "Images/Wall6.png";
 
     this.wall7 = new Image();
-    this.wall7.src = "Images/Wall_7.png";
+    this.wall7.src = "Images/Wall7.png";
 
     this.wall8 = new Image();
-    this.wall8.src = "Images/Wall_8.png";
+    this.wall8.src = "Images/Wall8.png";
 
     this.wall9 = new Image();
-    this.wall9.src = "Images/Wall_9.png";
+    this.wall9.src = "Images/Wall9.png";
 
     this.wall10 = new Image();
-    this.wall10.src = "Images/wall_10.png";
+    this.wall10.src = "Images/wall10.png";
 
     this.wall11 = new Image();
-    this.wall11.src = "Images/Wall_11.png";
+    this.wall11.src = "Images/Wall11.png";
 
     this.pinkDot = new Image();
     this.pinkDot.src = "Images/pinkDot.png";
