@@ -56,11 +56,6 @@ export default class TileMap {
     this.powerDotAnimationTimer = this.powerDotAnimationTimerDefault;
   }
 
-  //pacman = 13
-  //empty space = 14
-  //enemy = 15
-  //powerdot = 16
-
   map = [
     [
       12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12,
